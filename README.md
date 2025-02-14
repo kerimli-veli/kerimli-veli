@@ -4,4 +4,4 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=kerimli-veli-github-username&base=650)
+![](https://komarev.com/ghpvc/?username=kerimli-veli-github-username&color=blue)
