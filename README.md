@@ -1,4 +1,4 @@
-### Hi there 👋, kerimli-veli
+### _Welcome to my GitHub! Explore the code behind the scenes!_
 
 
 
